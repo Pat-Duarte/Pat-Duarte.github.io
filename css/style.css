@@ -781,7 +781,7 @@ a:hover {
 
 .about-2 .content-block .media .pull-left {
   padding-right: 15px;
-  padding-top: 3px;
+  padding-left: 1px;
 }
 
 .about-2 .content-block .media i {
@@ -793,6 +793,18 @@ a:hover {
   font-size: 16px;
   font-weight: 600;
 }
+
+/*=================================================================
+  Cta section
+==================================================================*/
+.cta {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  padding-right: 60px; 
+}
+
 
 /*=================================================================
  Call To Action 1
@@ -912,14 +924,6 @@ a:hover {
 #map {
   height: 370px;
   width: 100%;
-}
-
-/*=================================================================
-  Cta section
-==================================================================*/
-.cta {
-  background-color: rgba(255, 255, 255, 0.6);
-  padding: 20px;
 }
 
 /*=================================================================
@@ -1154,11 +1158,13 @@ a:hover {
   font-size: 50px;
 }
 
+.skill-description {
+  padding-right: 50px;
+}
 
 .skill-bar p {
   font-size: 18px;
-  margin-bottom: 10;
-  margin-left: 5;
+  margin-bottom: 0;
 }
 
 .skill-bar p span {

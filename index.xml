@@ -6,39 +6,56 @@
     <description>Recent content on Pat Duarte | Developer - UX Writer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://pat-duarte.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://pat-duarte.github.io/blog/are-you-doing-the-right-way/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>Error message</title>
+      <link>https://pat-duarte.github.io/blog/error-message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-duarte.github.io/blog/are-you-doing-the-right-way/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://pat-duarte.github.io/blog/error-message/</guid>
+      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information.
+Before  Too much text, unnecessary explanation.
+ We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
+Can you make the file smaller and try again?
+Another option is exporting to HTML with no size limit.</description>
     </item>
     
     <item>
-      <title>Simple Post Title</title>
-      <link>https://pat-duarte.github.io/blog/simple-post-title/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      <title>Purpose</title>
+      <link>https://pat-duarte.github.io/blog/purpose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-duarte.github.io/blog/simple-post-title/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://pat-duarte.github.io/blog/purpose/</guid>
+      <description>Overview Make the purpose of the document clear. Give each document a single purpose.
+Before  Multiple purposes. Long sentence.
+ This topic describes the process of downloading and adding the Indigo Design Libraries into Sketch and how to craft your first design using and customizing the Components necessary for building a registration screen.
+After  Single purpose with simple language.
+ At the end of this topic you&amp;rsquo;ll have a Sketch Artboard for a registration screen using Indigo Design Libraries.</description>
     </item>
     
     <item>
-      <title>Simple Image Post</title>
-      <link>https://pat-duarte.github.io/blog/simple-image-post/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Structure and hierarchy</title>
+      <link>https://pat-duarte.github.io/blog/structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-duarte.github.io/blog/simple-image-post/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://pat-duarte.github.io/blog/structure/</guid>
+      <description>Overview The content and information in tutorials need to be clear and easy to find. This sample shows how to achieve this by naming and numbering steps, and editing to simplify the language.
+Before  Single step with no name. Hard to follow.
+  From the insert menu, select Indigo-Components, then Navigation and Navbar positioning the Navbar at the top of the artboard and stretching it to take up the full witdth available.</description>
+    </item>
+    
+    <item>
+      <title>Visual space</title>
+      <link>https://pat-duarte.github.io/blog/visual-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/visual-space/</guid>
+      <description>Overview The text in a website should make good use of the visual space. This adds complexity, because you need to focus on how much space it takes up and not only the words in it.
+Before  Single step with no name. Hard to follow.
+  From the insert menu, select Indigo-Components, then Navigation and Navbar positioning the Navbar at the top of the artboard and stretching it to take up the full witdth available.</description>
     </item>
     
   </channel>
