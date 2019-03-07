@@ -11,16 +11,52 @@
     
     
     <item>
+      <title>Button</title>
+      <link>https://pat-duarte.github.io/blog/button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/button/</guid>
+      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
+Before  Too much text, unnecessary explanation.
+ We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
+Can you make the file smaller and try again?</description>
+    </item>
+    
+    <item>
+      <title>Clarity and simplicity</title>
+      <link>https://pat-duarte.github.io/blog/clalrity-simplicity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/clalrity-simplicity/</guid>
+      <description>Overview Use simple language.
+Before  Too much text, unnecessary explanation.
+ We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
+Can you make the file smaller and try again?
+Another option is exporting to HTML with no size limit.
+After  Only relevant information.</description>
+    </item>
+    
+    <item>
       <title>Error message</title>
       <link>https://pat-duarte.github.io/blog/error-message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/error-message/</guid>
-      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information.
+      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
 Before  Too much text, unnecessary explanation.
  We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
-Can you make the file smaller and try again?
-Another option is exporting to HTML with no size limit.</description>
+Can you make the file smaller and try again?</description>
+    </item>
+    
+    <item>
+      <title>Frontloading</title>
+      <link>https://pat-duarte.github.io/blog/frontloading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/frontloading/</guid>
+      <description>Overview The idea is to provide the most important information first. Then, include the details. This applies for a whole page, sections, and even phrases.
+Whole page example  What is this page for?
+ The purpose of the page is evident in the header. The second section focuses on all the features.</description>
     </item>
     
     <item>
@@ -45,6 +81,30 @@ After  Single purpose with simple language.
       <description>Overview The content and information in tutorials need to be clear and easy to find. This sample shows how to achieve this by naming and numbering steps, and editing to simplify the language.
 Before  Single step with no name. Hard to follow.
   From the insert menu, select Indigo-Components, then Navigation and Navbar positioning the Navbar at the top of the artboard and stretching it to take up the full witdth available.</description>
+    </item>
+    
+    <item>
+      <title>Title</title>
+      <link>https://pat-duarte.github.io/blog/title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/title/</guid>
+      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
+Before  Too much text, unnecessary explanation.
+ We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
+Can you make the file smaller and try again?</description>
+    </item>
+    
+    <item>
+      <title>Tooltip</title>
+      <link>https://pat-duarte.github.io/blog/tooltip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/tooltip/</guid>
+      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
+Before  Too much text, unnecessary explanation.
+ We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
+Can you make the file smaller and try again?</description>
     </item>
     
     <item>

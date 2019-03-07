@@ -8,12 +8,24 @@
   </url>
   
   <url>
+    <loc>https://pat-duarte.github.io/blog/button/</loc>
+  </url>
+  
+  <url>
     <loc>https://pat-duarte.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://pat-duarte.github.io/blog/clalrity-simplicity/</loc>
+  </url>
+  
+  <url>
     <loc>https://pat-duarte.github.io/blog/error-message/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pat-duarte.github.io/blog/frontloading/</loc>
   </url>
   
   <url>
@@ -32,6 +44,14 @@
   <url>
     <loc>https://pat-duarte.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pat-duarte.github.io/blog/title/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pat-duarte.github.io/blog/tooltip/</loc>
   </url>
   
   <url>
