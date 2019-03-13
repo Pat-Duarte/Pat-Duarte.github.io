@@ -16,24 +16,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/button/</guid>
-      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
-Before  Too much text, unnecessary explanation.
- We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
-Can you make the file smaller and try again?</description>
+      <description>Overview Find a balance between having few words and being clear about the user action.
+Before  The text in the buttons is short and simple but it&amp;rsquo;s not relevant to the actions.
+ Primary action: OK
+Secondary action: Cancel
+After  The texts in the buttons reflect the available actions.
+ Primary action: Relaunch Indigo
+Secondary action: I&amp;rsquo;ll relaunch later</description>
     </item>
     
     <item>
       <title>Clarity and simplicity</title>
-      <link>https://pat-duarte.github.io/blog/clalrity-simplicity/</link>
+      <link>https://pat-duarte.github.io/blog/clarity-simplicity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pat-duarte.github.io/blog/clalrity-simplicity/</guid>
-      <description>Overview Use simple language.
-Before  Too much text, unnecessary explanation.
- We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
-Can you make the file smaller and try again?
-Another option is exporting to HTML with no size limit.
-After  Only relevant information.</description>
+      <guid>https://pat-duarte.github.io/blog/clarity-simplicity/</guid>
+      <description>Overview Use simple language. Structure your text to make it clear. This example comes from a tutorial.
+Before  Too verbose. No step name. No numbering.
+ The last thing would be to select all layers for the form, including the white background and the shadow and group them together. With the newly formed Group selected fix both its width and height and fix it to the top from the Resizing panel on the right.</description>
     </item>
     
     <item>
@@ -89,10 +89,11 @@ Before  Single step with no name. Hard to follow.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/title/</guid>
-      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
-Before  Too much text, unnecessary explanation.
- We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
-Can you make the file smaller and try again?</description>
+      <description>Overview Keep titles goal-oriented and relevant to the purpose of the topic.
+Before  Too vague. What&amp;rsquo;s the purpose?
+ Getting started This title is too generic. When reading it, the user can&amp;rsquo;t have an idea of what the topic will be about. In the case of a tutorial, they don&amp;rsquo;t know what they will achieve after following the instructions.
+After  Title shows purpose.
+ Creating your first artboard This title reflects a concrete action and it gives the user an idea of what the goal of the tutorial is.</description>
     </item>
     
     <item>
@@ -101,10 +102,8 @@ Can you make the file smaller and try again?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/tooltip/</guid>
-      <description>Overview Explain the reason for the error in plain language. Provide only relevant and useful information. Give users a way out.
-Before  Too much text, unnecessary explanation.
- We can&amp;rsquo;t share this for you The file &amp;lsquo;filename&amp;rsquo; is too large to be shared to our servers. To make shares load faster, we restrict the size of each uploaded file/image to 6MB.
-Can you make the file smaller and try again?</description>
+      <description> Overview The key is to be consistent. Use the same phrasing, punctuation, and abreviations.
+Some examples </description>
     </item>
     
     <item>
@@ -113,9 +112,9 @@ Can you make the file smaller and try again?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/visual-space/</guid>
-      <description>Overview The text in a website should make good use of the visual space. This adds complexity, because you need to focus on how much space it takes up and not only the words in it.
-Before  Single step with no name. Hard to follow.
-  From the insert menu, select Indigo-Components, then Navigation and Navbar positioning the Navbar at the top of the artboard and stretching it to take up the full witdth available.</description>
+      <description>Overview The text in a website should make good use of the visual space. Consider the space it takes up and not only the words in it.
+Example  Similar text length
+ In these titles and descriptions of features the length of the texts is purposefully similar.</description>
     </item>
     
   </channel>
