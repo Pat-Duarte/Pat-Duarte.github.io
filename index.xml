@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pat Duarte | Developer - UX Writer</title>
     <link>https://pat-duarte.github.io/</link>
     <description>Recent content on Pat Duarte | Developer - UX Writer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://pat-duarte.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://pat-duarte.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buttons</title>
       <link>https://pat-duarte.github.io/blog/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/button/</guid>
-      <description> Overview Find a balance between having few words and being clear about the user action.
+      <description>Overview Find a balance between having few words and being clear about the user action.
 Before Primary action: OK
 Secondary action: Cancel
  The text in the buttons is short and simple but it&amp;rsquo;s not relevant to the actions.
@@ -37,6 +33,16 @@ Before The last thing would be to select all layers for the form, including the 
     </item>
     
     <item>
+      <title>Content style guide</title>
+      <link>https://pat-duarte.github.io/blog/style-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/blog/style-guide/</guid>
+      <description>Overview https://docs.google.com/presentation/d/1Mln2snaDoyXDW1n16I2i3k0ZdUgqTVwBmT0IxzBiVBE/edit?usp=sharing
+Grammar  Write in the present simple Avoid passive voice If a sentence is too long, split it  Vocabulary US spelling Avoid adverbs Does it add value? How many do I need to put my meaning across? Keep it simple in order to → to as well as → and disseminate → distribute advancement → improvement utilize → use Don’t overuse common words Ask yourself these questions: Does it add value?</description>
+    </item>
+    
+    <item>
       <title>Error message</title>
       <link>https://pat-duarte.github.io/blog/error-message/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,7 +60,7 @@ Another option is exporting to HTML with no size limit.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/frontloading/</guid>
-      <description> Overview The idea is to provide the most important information first. Then, include the details. This applies for a whole page, sections, and even phrases.
+      <description>Overview The idea is to provide the most important information first. Then, include the details. This applies for a whole page, sections, and even phrases.
 Whole page example The purpose of the page is evident in the header. The second section focuses on all the features.
  What is this page for?
  </description>
@@ -79,7 +85,7 @@ Before This topic describes the process of downloading and adding the Indigo Des
       
       <guid>https://pat-duarte.github.io/blog/structure/</guid>
       <description>Overview The content and information in tutorials need to be clear and easy to find. This sample shows how to achieve this by naming and numbering steps, and editing to simplify the language.
-Before  From the insert menu, select Indigo-Components, then Navigation and Navbar positioning the Navbar at the top of the artboard and stretching it to take up the full witdth available. With the Navbar selected, fix its height and fix it to the left, top, and right from the resizing section in the right panel.</description>
+Before From the insert menu, select Indigo-Components, then Navigation and Navbar positioning the Navbar at the top of the artboard and stretching it to take up the full witdth available. With the Navbar selected, fix its height and fix it to the left, top, and right from the resizing section in the right panel.</description>
     </item>
     
     <item>
@@ -100,7 +106,7 @@ Before Getting started This title is too generic. When reading it, the user can&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/tooltip/</guid>
-      <description> Overview The key is to be consistent. Use the same phrasing, punctuation, and abreviations.
+      <description>Overview The key is to be consistent. Use the same phrasing, punctuation, and abreviations.
 Some examples </description>
     </item>
     
@@ -110,7 +116,7 @@ Some examples </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pat-duarte.github.io/blog/visual-space/</guid>
-      <description> Overview The text in a website should make good use of the visual space. Consider the space it takes up and not only the words in it.
+      <description>Overview The text in a website should make good use of the visual space. Consider the space it takes up and not only the words in it.
 Example In these titles and descriptions of features the length of the texts is purposefully similar.
  Similar text length
  </description>

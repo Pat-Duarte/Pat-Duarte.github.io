@@ -1,61 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://pat-duarte.github.io/blog/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/button/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/clarity-simplicity/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://pat-duarte.github.io/blog/style-guide/</loc>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/error-message/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/frontloading/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/purpose/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/structure/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/title/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/tooltip/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pat-duarte.github.io/blog/visual-space/</loc>
   </url>
-  
 </urlset>
