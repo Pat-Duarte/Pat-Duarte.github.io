@@ -19,6 +19,7 @@ body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
+  letter-spacing: 0.04rem;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -80,7 +81,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #B7245C;
 }
 
 .kill-margin-bottom {
@@ -264,7 +265,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #B7245C;
 }
 
 .btn-main {
@@ -272,13 +273,14 @@ a:hover {
   color: #fff;
   display: inline-block;
   font-size: 14px;
+  font-weight: 500;
   letter-spacing: 1px;
   padding: 10px 35px;
   text-transform: uppercase;
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #B7245C;
   color: #fff;
 }
 
@@ -562,14 +564,14 @@ a:hover {
 }
 
 .navigation .navigation-menu li a {
-  font-size: 16px;
+  font-size: 18px;
   color: #737f8a;
 }
 
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #B7245C;
 }
 
 .navbar-toggle {
@@ -627,7 +629,7 @@ a:hover {
 
 .hero-area .block .video-button i {
   line-height: 60px;
-  font-size: 20px;
+  font-size: 23px;
   margin-left: 3px;
 }
 
@@ -647,7 +649,7 @@ a:hover {
 
 .hero-area .block p {
   color: #fff;
-  font-size: 20px;
+  font-size: 23px;
   width: 70%;
   margin: 0 auto;
 }
@@ -657,7 +659,7 @@ a:hover {
   border-color: #fff;
   padding: 14px 50px;
   font-size: 18px;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   letter-spacing: 1px;
 }
@@ -768,6 +770,12 @@ a:hover {
   color: #afbac4;
 }
 
+.about .block p {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+
 /*=================================================================
   About us 2 section
 ==================================================================*/
@@ -775,8 +783,18 @@ a:hover {
   padding: 40px;
 }
 
+@media (min-width: 991px) {
+  .about-2 .content-block {
+    padding: 70px;
+  }
+    .about-2 .content-block p {
+    padding-right: 80px;
+  }
+}
+
 .about-2 .content-block .media {
   margin-top: 25px;
+  padding-top: 3px;
 }
 
 .about-2 .content-block .media .pull-left {
@@ -790,7 +808,7 @@ a:hover {
 }
 
 .about-2 .content-block .media h4 {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -798,7 +816,7 @@ a:hover {
   Cta section
 ==================================================================*/
 .cta {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.8);
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 60px;
@@ -821,6 +839,13 @@ a:hover {
 .call-to-action p {
   font-size: 18px;
   color: #666;
+}
+
+@media (min-width: 768px) {
+  .call-to-action p {
+    margin-left: 150px;
+    margin-right: 150px;
+    }
 }
 
 .call-to-action .btn-main {
@@ -949,7 +974,7 @@ a:hover {
 }
 
 .counters-item h3 {
-  font-size: 20px;
+  font-size: 23px;
   margin: 0;
 }
 
@@ -1015,7 +1040,7 @@ a:hover {
   border: 1px solid rgba(236, 239, 241, 0.07);
   background: transparent;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   padding: 6px 20px;
   font-weight: 700;
   color: #737f8a;
@@ -1079,7 +1104,7 @@ a:hover {
 }
 
 .portfolio-block .caption h4 {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
 }
 
@@ -1088,12 +1113,12 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #57cbcc;
+  background: #B7245C;
   width: 50px;
   height: 50px;
   color: #fff;
   display: inline-block;
-  font-size: 20px;
+  font-size: 23px;
   border-radius: 30px;
 }
 
@@ -1161,6 +1186,11 @@ a:hover {
 
 .skill-description {
   padding-right: 50px;
+  font-size: 18px;
+}
+
+.skill-bar {
+  margin-top: 20px;
 }
 
 .skill-bar p {
@@ -1252,7 +1282,7 @@ a:hover {
   border: 1px solid #fff;
   color: #fff;
   display: block;
-  font-size: 20px;
+  font-size: 23px;
   height: 35px;
   line-height: 35px;
   text-align: center;
@@ -1398,7 +1428,7 @@ a:hover {
 
 .post-block .content h3 {
   margin: 0 0 6px;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1408,7 +1438,7 @@ a:hover {
 }
 
 .note .excerpt h3 {
-  font-size: 20px;
+  font-size: 23px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1435,11 +1465,24 @@ a:hover {
   object-fit: cover;
 }
 
-.post-single-content ol {
-list-style: decimal;
-list-style-position: inside;  
+.post-single-content {
+  padding-right: 30px;
 }
 
+.post-single-content h2 {
+  padding-top: 20px;
+}
+
+.post-single-content p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.post-single-content ol {
+  list-style: decimal;
+  list-style-position: inside;  
+}  
+    
 .post-meta {
   font-size: 13px;
   margin: 20px 0 0;
@@ -1479,7 +1522,7 @@ list-style-position: inside;
 .post-excerpt blockquote {
   line-height: 22px;
   margin: 20px 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .single-blog {
@@ -1527,7 +1570,7 @@ list-style-position: inside;
 .social-profile ul li a {
   color: #4e595f;
   display: block;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .social-profile ul li a i:hover {
@@ -1876,7 +1919,7 @@ aside.widget {
   border: 0;
   color: #C8C8CA;
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   height: 32px;
   outline: 0;
   position: absolute;
@@ -2009,10 +2052,10 @@ aside.widget {
 }
 
 blockquote {
-  border-left: 5px solid #6cb670;
+  border-left: 5px solid #B7245C;
   font-style: italic;
   line-height: 22px;
-  margin: 20px 0;
+  margin: 30px 0;
 }
 
 .next-prev {

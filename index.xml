@@ -67,6 +67,17 @@ Whole page example The purpose of the page is evident in the header. The second 
     </item>
     
     <item>
+      <title>Product definition</title>
+      <link>https://pat-duarte.github.io/portfolio/product-definition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pat-duarte.github.io/portfolio/product-definition/</guid>
+      <description>The Company A former software factory looking to reinvent itself as a product company. They had built the same product several times for different clients and wanted to use that as the starting point for a product.
+What they had They had a set of microservices in place, several versions of custom digital wallets made for clients, and a web aplication where clients could see reports and access settings.
+They had created this diagram with information on all the pieces of software they had.</description>
+    </item>
+    
+    <item>
       <title>Purpose</title>
       <link>https://pat-duarte.github.io/blog/purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
