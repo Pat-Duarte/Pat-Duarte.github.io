@@ -787,9 +787,13 @@ a:hover {
   .about-2 .content-block {
     padding: 70px;
   }
-    .about-2 .content-block p {
+  .about-2 .content-block p {
     padding-right: 80px;
   }
+  .about-2 .content-block .media-body p {
+    padding-right: 20px;
+  }
+
 }
 
 .about-2 .content-block .media {
@@ -1209,6 +1213,7 @@ a:hover {
 .skill-bar .progress {
   height: 6px;
   border-radius: 0;
+  margin-bottom: 25px;
 }
 
 .skill-bar .progress .progress-bar {
